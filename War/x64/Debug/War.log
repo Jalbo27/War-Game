@@ -1,0 +1,8 @@
+﻿  War.cpp
+D:\school\informatica\4BIA\War\War\Card.h(6,14): warning C4566: un carattere rappresentato dal nome di caratteri universali '\u2665' non può essere rappresentato nella tabella codici corrente (1252)
+D:\school\informatica\4BIA\War\War\War.cpp(30,41): warning C4566: un carattere rappresentato dal nome di caratteri universali '\u2665' non può essere rappresentato nella tabella codici corrente (1252)
+D:\school\informatica\4BIA\War\War\War.cpp(33,41): warning C4566: un carattere rappresentato dal nome di caratteri universali '\u2666' non può essere rappresentato nella tabella codici corrente (1252)
+D:\school\informatica\4BIA\War\War\War.cpp(36,41): warning C4566: un carattere rappresentato dal nome di caratteri universali '\u2660' non può essere rappresentato nella tabella codici corrente (1252)
+D:\school\informatica\4BIA\War\War\War.cpp(39,41): warning C4566: un carattere rappresentato dal nome di caratteri universali '\u2663' non può essere rappresentato nella tabella codici corrente (1252)
+D:\school\informatica\4BIA\War\War\War.cpp(13,25): warning C4101: 'rnd': variabile locale senza riferimenti
+  War.vcxproj -> D:\school\informatica\4BIA\War\War\x64\Debug\War.exe
